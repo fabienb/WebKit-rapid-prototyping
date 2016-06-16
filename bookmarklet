@@ -1,0 +1,1 @@
+javascript:(function()%7Bwindow.s251=document.createElement('script');window.s251.setAttribute('type','text/javascript');window.s251.setAttribute('src','http://design.kurtosys.com/fabien/_files/js/cssprototyping.js');document.getElementsByTagName('body')%5B0%5D.appendChild(window.s251);%7D)();
