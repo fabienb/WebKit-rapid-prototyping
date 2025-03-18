@@ -25,3 +25,10 @@ a {
 ```
 
 When you're done with the tests, refresh the page to remove the effect.
+
+## Version 2, created in 2011
+(Works in Webkit browsers only)
+
+- Fixed url reference in main file
+- Added bookmarklet based on Grid.js (separate prototyping tool)
+
