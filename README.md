@@ -7,12 +7,13 @@ I took the original idea from an 2011 article on [css-101.org](http://cssmojo.co
 
 Later the same year, I found out that someone else had the same idea, and had also added a useful on/off functionality. You can still check that out: [grid.js](https://gist.github.com/webxl/1232664).
 
-If you still want to try this version 0.1 of the bookmarklet, download `cssprototyping.js` and host it somewhere, then edit the url in `css-rapid-prototyping` accordingly. You can then create a new bookmark in Chrome and copy the code as the URL associated with the bookmark.
+If you still want to try this **version 0.1** of the bookmarklet, download `cssprototyping.js` and host it somewhere, then edit the url in `css-rapid-prototyping` accordingly. You can then create a new bookmark in Chrome and copy the code as the URL associated with the bookmark.
 
-Version 2 (`WebKit-rapid-prototyping.js`) is a combination of the original source code, the idea behind grid.js, and an upgrade that was suggested somewhere in the comments.
+**Version 2** (`WebKit-rapid-prototyping.js`) is a combination of the original source code, the idea behind grid.js, and an upgrade that was suggested somewhere in the comments.
 
-In 2025, I decided to test a LLM model I was working on locally by asking it to refactor the code to a modern version. And that is now version 3, or `WebKit-rapid-prototyping-2025.js`. Which should probably be renamed as it's not WebKit-only anymore.
+In 2025, I decided to test a LLM model I was working on locally by asking it to refactor the code to a modern version. And that is now **version 3**, or `WebKit-rapid-prototyping-2025.js`. Which should probably be renamed as it's not WebKit-only anymore.
 
+---
 
 ## Changelog
 
