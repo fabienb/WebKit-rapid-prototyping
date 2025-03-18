@@ -1,4 +1,5 @@
-# css-rapid-prototyping
+# CSS Rapid Prototyping
+
 This bookmarklet creates a grid overlay to the page and allows for any text in the page to be modified for the sake of rapid prototyping.
 It uses basic CSS and a base64 SVG, therefore it's very easy for anyone to customise it (disable the grid, add features, etc.).
 
@@ -8,7 +9,7 @@ I have later found out that someone else had the same idea, and had also added a
 
 If you still want to try this version (thank you), download the .js file and host it somewhere, then edit the url in the bookmarklet accordingly.
 
-## Version 0.1, created in 2011
+## Version 0.1, created in 2011 - CSS
 (Works in Webkit browsers only)
 
 This is the CSS applied to the page:
@@ -26,9 +27,8 @@ a {
 
 When you're done with the tests, refresh the page to remove the effect.
 
-## Version 2, created in 2011
+## Version 2, created in 2012 - JS
 (Works in Webkit browsers only)
 
 - Fixed url reference in main file
 - Added bookmarklet based on Grid.js (separate prototyping tool)
-
